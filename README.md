@@ -1,27 +1,66 @@
-# 👋 你好，我是 me2nto
+<!-- ================= 顶部：打字动画横幅 ================= -->
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1200&color=9CAF88&center=t
+  rue&vCenter=true&width=520&lines=Hello%2C+I'm+XXX;CS+Student+%40+Fuzhou+University;Exploring+AI+%C2%B7+Testing+%C2%B7+Web"
+  alt="Typing SVG" />
+    </a>
+  </div>
 
-  > 福州大学 · 计算机科学与技术 · 本科在读
+  <p align="center">
+    <em>「 保持好奇 」</em>
+  </p>
 
-  ## 🧑 关于我
-  - 🎯 兴趣爱好：音乐，篮球，健身
-  - 📖 想分享的一段经历：希望今年能带领计算机校赛夺冠
-  - 📍 我目前关注的方向：后端开发、大模型应用
+  <!-- ================= 关于我 ================= -->
+  ### 🧭 About Me
 
-  ## 💪 技能与成果
-  - 编程语言：Python（入门）、C/C++（学过）、Java（入门）
-  - 工具：Git、Linux 基础、VSCode、Markdown
-  - 实践经历：
-    - 本课程第 1 次作业：调用 Hugging Face API（Flux 模型）实现图像生成
+  - 🎓 福州大学 · 计算机科学与技术 · 本科在读
+  - 🎯 兴趣爱好：（篮球 /健身  / 听音乐）
+  - 📍 关注方向： 大模型应用
 
-  ## 📝 自我评估
-  - ✅ 已掌握：Python，c++ 基础语法、Git 基本操作、HTTP/API 基础概念、Markdown
-  - 🔍 感兴趣：大模型应用开发
-  - 📚 最想学 后端开发、AI 应用落地
+  <!-- ================= 技能 ================= -->
+  ### 🛠 Tech Stack
 
-  ## 🗓 未来三年规划
-  - 第 1 年：夯实计算机基础（数据结构、数据库、计算机网络），同步准备考研
-  - 第 2 年：明确方向，若考研则全力备考；同时以"后端开发"岗位为目标积累实习经验作为保底
-  - 第 3 年：冲刺目标院校研究生，或进入心仪企业
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,linux,vscode,html,css,js,markdown" alt="skills" />
+  </p>
 
-  ## 📫 联系我
-  - GitHub：https://github.com/me2nto
+  <!-- ================= 自我评估 ================= -->
+  ### 📝 Self-Assessment
+
+  | ✅ 已掌握 | 🔍 感兴趣 | 📚 最想学 |
+  | :---: | :---: | :---: |
+  | Python 基础语法 | 大模型应用开发 | 自动化测试框架 |
+  | Git 基本操作 | 软件测试 | 后端开发 |
+  | HTTP / API 基础 | Web 开发 | AI 应用落地 |
+  | Markdown | 前端 | 数据库设计 |
+
+  <!-- ================= 实践经历 ================= -->
+  ### 🚀 Experience
+
+  - **2026 · 软件工程课程**：调用 Hugging Face API（Flux 模型）实现文生图，并搭建交互式前端
+  - （补充你自己的课设 / 项目 / 竞赛）
+
+  <!-- ================= 三年规划 ================= -->
+  ### 🗓 Three-Year Plan
+
+  > 🥇 主线：考研　　🛡 保底：测试开发方向实习
+
+  - **第 1 年** 夯实计算机基础（数据结构 · 数据库 · 计算机网络），同步备战考研
+  - **第 2 年** 全力备考，同时积累测开方向项目与实习，作为就业保底
+  - **第 3 年** 冲刺目标院校研究生，或进入心仪的岗位
+
+  <!-- ================= 数据卡片 ================= -->
+  ### 📊 GitHub Stats
+
+  <div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_bor
+  der=true&title_color=9CAF88&text_color=9A948C&icon_color=A3B18A&bg_color=00000000" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparen
+  t&hide_border=true&title_color=9CAF88&text_color=9A948C&bg_color=00000000" />
+  </div>
+
+  <!-- ================= 联系 ================= -->
+  ### 📫 Reach Me
+
+  - GitHub：[[github.com/yourusername](https://github.com/yourusername)](https://github.com/me2nto)
