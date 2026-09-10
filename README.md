@@ -1,9 +1,8 @@
 <!-- ================= 顶部：打字动画横幅 ================= -->
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1200&color=9CAF88&center=t
-  rue&vCenter=true&width=520&lines=Hello%2C+I'm+XXX;CS+Student+%40+Fuzhou+University;Exploring+AI+%C2%B7+Testing+%C2%B7+Web"
-  alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1200&color=9CAF88&center=true&
+  vCenter=true&width=520&lines=Hello%2C+I+am+me2nto;CS+Student+at+Fuzhou+University;Exploring+AI+and+Testing" alt="typing" />
     </a>
   </div>
 
