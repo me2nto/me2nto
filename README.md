@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 你好，我是 XXX
 
-<!--
-**me2nto/me2nto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  > 福州大学 · 计算机科学与技术 · 本科在读
 
-Here are some ideas to get you started:
+  ## 🧑 关于我
+  - 🎯 兴趣爱好：音乐，篮球，健身
+  - 📖 想分享的一段经历：希望今年能带领计算机校赛夺冠
+  - 📍 我目前关注的方向：后端开发、大模型应用
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 💪 技能与成果
+  - 编程语言：Python（入门）、C/C++（学过）、Java（入门）
+  - 工具：Git、Linux 基础、VSCode、Markdown
+  - 实践经历：
+    - 本课程第 1 次作业：调用 Hugging Face API（Flux 模型）实现图像生成
+
+  ## 📝 自我评估
+  - ✅ 已掌握：Python，c++ 基础语法、Git 基本操作、HTTP/API 基础概念、Markdown
+  - 🔍 感兴趣：大模型应用开发
+  - 📚 最想学 后端开发、AI 应用落地
+
+  ## 🗓 未来三年规划
+  - 第 1 年：夯实计算机基础（数据结构、数据库、计算机网络），同步准备考研
+  - 第 2 年：明确方向，若考研则全力备考；同时以"后端开发"岗位为目标积累实习经验作为保底
+  - 第 3 年：冲刺目标院校研究生，或进入心仪企业
+
+  ## 📫 联系我
+  - GitHub：https://github.com/me2nto
